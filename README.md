@@ -9,11 +9,7 @@ How It All Start
 
 ## Station 2
 Stars and The Epoch of Reionization:
-Although no one knows yet exactly how long ago stars began to form, the epoch of reionization marks a crucial period that ended the universe's "dark ages." 
-This era began from the existance of ultraviolet light until the universe was about one billion years old. Hydrogen atoms have one prositively charged proton,
-and one negatively charged electron orbiting it. The attraction between these two particles is what holds the atom together. In the earliest days of the
-Universe, the hydrogen atom's proton and electron were bouded together. It wasn't until a massive amount of energy in the form of ultraviolet light existed 
-that was able to tear these atoms apart, leading to ionized hydrogen that...
+Although no one knows yet exactly how long ago the very first stars began to form, the epoch of reionization marks a crucial period that ended the Universe's "dark ages." About 400,000 years after the Big Bang, nearly all hydrogen gas was neutral: each hydrogen atom had one positively charged proton, and one negatively charged electron. The attraction between these two particles is what holds the atom together. In a process called ionization, light with enough energy- such as ultraviolet light- can knock the electron free. This radiation knocked electrons free from surrounding hydrogen atoms, leaving behind protons and creating regions of ionized hydrogen. Over the first billion years, more and more of these ionized regions appeared and expanded, eventually overlapping. Because opposite charges attract, free protons and electrons naturally tend to recombine into neutral hydrogen. A hydroden atom with only one proton will attract an electron. In this process, most of the intergalactic hydrogen atoms were reionized. This landmark transition ended the dark ages and heated the cosmic gas by thousands of degrees, setting the stage for how the Universe evolved afterward. 
 
 ## Station 3
 The Galaxy
