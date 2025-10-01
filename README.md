@@ -22,3 +22,8 @@ Planets
 
 ## Station 5
 How It Is Today
+
+
+
+
+The user will be able to alter the brightness of the object..
