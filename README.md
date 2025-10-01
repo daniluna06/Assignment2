@@ -21,9 +21,6 @@ The Galaxy
 Planets
 
 ## Station 5
-How It Is Today
+The Future of Earth: After all that has happened throughout the history of the Universe, it would be a shame if the Earth got to this point only to regress within the next few centuries, which is what scientists are predicting if humans don't take action to prevent future harm from climate change.
 
-
-
-
-The user will be able to alter the brightness of the object..
+https://www.nature.com/articles/d41586-019-03595-0#ref-CR1
