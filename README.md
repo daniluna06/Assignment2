@@ -21,6 +21,6 @@ The Galaxy
 Planets
 
 ## Station 5
-The Future of Earth: After all that has happened throughout the history of the Universe, it would be a shame if the Earth got to this point only to regress within the next few centuries, which is what scientists are predicting if humans don't take action to prevent future harm from climate change.
+The Future of Earth: After all that has happened throughout the history of the Universe, it would be a shame if the Earth got to this point only to regress within the next few centuries, which is what scientists are predicting if humans don't take action to prevent future harm from climate change. Research shows that planet Earth is closer than we once thought to "tipping points"- moments where natural ecosystems, like the Amazon rainforest or the Antarctic ice sheet, could collapse or change in ways that cannot be reversed. If ice sheets melt too quickly or forests die off, the Earth could be locked into long-term damage. That's why scientists are advocating to cut emissions and protect ecosystems, because the cost of waiting could be far greater than the cost of acting now. 
 
 https://www.nature.com/articles/d41586-019-03595-0#ref-CR1
