@@ -8,7 +8,11 @@ In this museum you can find the parts of the Big Bang Theory and how it all star
 How It All Start
 
 ## Station 2
-Stars
+Stars and The Epoch of Reionization:
+Although no one knows yet exactly how long ago the very first stars began to form, the epoch of reionization marks a crucial period that ended the Universe's "dark ages." About 400,000 years after the Big Bang, nearly all hydrogen gas was neutral: each hydrogen atom had one positively charged proton, and one negatively charged electron. The attraction between these two particles is what holds the atom together. In a process called ionization, light with enough energy- such as ultraviolet light- can knock the electron free. This radiation knocked electrons free from surrounding hydrogen atoms, leaving behind protons and creating regions of ionized hydrogen. Over the first billion years, more and more of these ionized regions appeared and expanded, eventually overlapping. Because opposite charges attract, free protons and electrons naturally tend to recombine into neutral hydrogen. A hydroden atom with only one proton will attract an electron. In this process, most of the intergalactic hydrogen atoms were reionized. This landmark transition ended the dark ages and heated the cosmic gas by thousands of degrees, setting the stage for how the Universe evolved afterward. 
+
+http://cosmicdawn.astro.ucla.edu/epoch_of_reionization.html
+https://science.nasa.gov/mission/webb/early-universe/
 
 ## Station 3
 The Galaxy
@@ -17,4 +21,6 @@ The Galaxy
 Planets
 
 ## Station 5
-How It Is Today
+The Future of Earth: After all that has happened throughout the history of the Universe, it would be a shame if the Earth got to this point only to regress within the next few centuries, which is what scientists are predicting if humans don't take action to prevent future harm from climate change.
+
+https://www.nature.com/articles/d41586-019-03595-0#ref-CR1
