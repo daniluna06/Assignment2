@@ -2,7 +2,7 @@
 ## Team
 Daniela Luna and Honey Miguel - Taura
 ## VR Museum
-In this museum you can find the parts of the Big Bang and how it all start.
+This virtual museum gives you a small glimpse into the universe that we live in, beginning with the Big Bang Theory, and ending with the future of our planet Earth.
 
 ## Station 1
 In the 1920s, astronomer Edwin Hubble was observing distant galaxies by using a powerful telescope. By looking, he made two discoveries. The first discovery he made was that the Milky Way was not the only galaxy to exist. When he was looking at the faint cloud-like objects in the night sky he realized they were actually other galaxies, which made him realize that the Milky Way was just one out of the billions of galaxies. Hubble's second discovery was that galaxies kept drifting away from each other. Which meant that the universe is still expanding and growing bigger over time.   
