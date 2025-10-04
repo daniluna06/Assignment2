@@ -37,6 +37,9 @@ The galaxy is made from gas, dust, and stars that are bound together by gravity.
 ## Station 4: The Solar System
 A planet is an object that orbits around a star. There are some rules to qualify as a planet, the object must be large enough that gravity has squeezed it into a spherical or round shape. Also, it should be large enough for any rocky or icy objects that come in its path around the star that gravity has to sweep up.  Scientists believed that a nebula, a dense cloud of dust and gas that orbits around a newly created star, is how planets started to form. Gravity is a key part that causes a small amount of matter in the nebula to bind together.  
 
+<img width="712" height="352" alt="4" src="https://github.com/user-attachments/assets/4e18926b-cb73-4ff7-bf61-94a52a63d1d3" />
+
+
 [https://science.nasa.gov/universe/galaxies/](https://education.nationalgeographic.org/resource/planet/)
 
 ## Station 5: Earth
