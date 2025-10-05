@@ -50,4 +50,6 @@ public class ProximityDetector : MonoBehaviour
             popUpPanel.SetActive(true);
     }
 
+
+
 }
