@@ -1,36 +1,53 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-public class ProximityDetector : MonoBehaviour { public GameObject popUpPanel; // Assign the UI Panel in the Inspector
-private void Start()
+public class ProximityDetector : MonoBehaviour
 {
-    // Ensure the panel is hidden at the start
-    if (popUpPanel != null)
+    public GameObject popUpPanel;
+    public string playerTag = "Player";
+
+    [Header("Behavior")]
+    public bool hideOnStart = false;
+
+    private void Start()
     {
-        popUpPanel.SetActive(false);
+        if (popUpPanel != null && hideOnStart)
+            popUpPanel.SetActive(false);
+
+        Debug.Log("[ProximityDetector] Start. Panel assigned? " + (popUpPanel != null));
     }
-}
-private void OnTriggerEnter(Collider other)
-{
-    // Check if the player enters the trigger zone
-    if (other.CompareTag("Player"))
+
+    private bool IsPlayer(Collider other)
     {
-        if (popUpPanel != null)
+        if (other.CompareTag(playerTag)) return true;
+        if (other.attachedRigidbody && other.attachedRigidbody.CompareTag(playerTag)) return true;
+        if (other.transform.root && other.transform.root.CompareTag(playerTag)) return true;
+        return false;
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        Debug.Log("[ProximityDetector] Enter by: " + other.name + " (tag: " + other.tag + ")");
+        if (IsPlayer(other) && popUpPanel != null)
         {
-            popUpPanel.SetActive(true); // Show the panel
+            popUpPanel.SetActive(true);
+            Debug.Log("[ProximityDetector] Panel shown.");
         }
     }
-}
-private void OnTriggerExit(Collider other)
-{
-    // Check if the player exits the trigger zone
-    if (other.CompareTag("Player"))
+
+    private void OnTriggerExit(Collider other)
     {
-        if (popUpPanel != null)
+        Debug.Log("[ProximityDetector] Exit by: " + other.name + " (tag: " + other.tag + ")");
+        if (IsPlayer(other) && popUpPanel != null)
         {
-            popUpPanel.SetActive(false); // Hide the panel
+            popUpPanel.SetActive(false);
+            Debug.Log("[ProximityDetector] Panel hidden.");
         }
     }
-}
+
+    private void OnTriggerStay(Collider other)
+    {
+        if (IsPlayer(other) && popUpPanel != null && !popUpPanel.activeSelf)
+            popUpPanel.SetActive(true);
+    }
+
 }
