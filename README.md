@@ -9,6 +9,8 @@ In the 1920s, astronomer Edwin Hubble was observing distant galaxies by using a 
 
 Years later, another astronomer, Georges Lemaitre, had used Hubble's discoveries to answer the big question of how did the universe started. This led to the idea being known as the Big Bang. The Big Bang occurred 13.8 billion years ago, when the universe was just a small fireball that exploded. However, it is still a mystery what caused the explosion to happen.   
 
+You'll notice that this exhibit is the only one without an light in the area. That's because the very early beginning of the universe was known as "The Dark Ages." The white color that you see is purely for visibility, but keep in mind that there was no light. Proceed to Exhibit #2 to learn more.
+
 <img width="745" height="375" alt="1" src="https://github.com/user-attachments/assets/f251ef3b-c5cd-40b3-8027-6669b027dd01" />
 
 [https://www.amnh.org/explore/ology/astronomy/how-did-the-universe-begin](https://www.amnh.org/explore/ology/astronomy/how-did-the-universe-begin)
