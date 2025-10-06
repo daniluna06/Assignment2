@@ -47,3 +47,5 @@ The Future of Earth: After all that has happened throughout the history of the U
 
 
 https://www.nature.com/articles/d41586-019-03595-0#ref-CR1
+
+NOTE: Scene can be found in Assets/Scenes/BigBangTheory.unity
